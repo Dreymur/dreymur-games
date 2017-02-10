@@ -1,6 +1,0 @@
-<tw-storydata name="Are you gay?" startnode="1" creator="Twine" creator-version="2.1.0" ifid="0018BC75-2CD4-4BF6-B8A8-5A54F93FD28D" format="Harlowe" format-version="1.2.3" options="" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css">
-</style><script role="script" id="twine-user-script" type="text/twine-javascript">
-</script><tw-passagedata pid="1" name="Are you gay?" tags="" position="788,259">Are you gay?
-[[Yes]] 
-[[No]]</tw-passagedata><tw-passagedata pid="2" name="Yes" tags="" position="710,403">[[You are gay!]]</tw-passagedata><tw-passagedata pid="3" name="No" tags="" position="863,403">[[Liar.]]</tw-passagedata><tw-passagedata pid="4" name="Liar." tags="" position="794,532">[[Yes&lt;-...]]</tw-passagedata><tw-passagedata pid="5" name="You are gay!" tags="" position="633,531">Turns out that you&#x27;re gay and that&#x27;s okay. Come out of the dark closet and accept your homosexuality!
-[[...-&gt;Accept Homosexuality]]</tw-passagedata><tw-passagedata pid="6" name="Accept Homosexuality" tags="" position="712,648">You&#x27;re still gay.</tw-passagedata></tw-storydata>
